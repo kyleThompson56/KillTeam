@@ -1,0 +1,5 @@
+﻿Name,trigger_event,condition_type,condition_value,effect_type,effect_value,target_filter,range,usage_limit
+Grandfathers_Blessing,enemy_takes_damage,has_tag,poisoned,heal_equal_to_damage,heal(cumulative_max(3)),self,177.8,per_turn_capped
+Icon_of_Contagion,ploy_activation,location_tag,enemy_territory,reduce_cost,freePloy(contagion),self,,passive
+Repulsive_Fortitude,targeted_by_shooting,always,,modify_defense_rolls,apply_status(lethal_defense),self,,passive
+Disgustingly_Resilient,attack_damage,min_damage,3,roll_reduce_damage,"roll(d6,4,-1)",self,,once_per_trigger

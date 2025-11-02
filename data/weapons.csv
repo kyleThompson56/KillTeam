@@ -1,0 +1,17 @@
+﻿Name,Attack,Hit,Damage,Damage_Crit,Abilities
+Plasma_Pistol_dg,4,3,3,5,"Range(8),Piercing(1)"
+Plasma_Pistol_supercharge_dg,4,3,4,5,"Range(8),Hot,Lethal,Piercing(1)"
+Plague_Sword,5,3,4,5,"Sever,Poison,Toxic,Melee"
+Boltgun_gren_dg,4,3,3,4,Range()
+Fists,4,3,3,4,Melee
+Krak_gren_dg,4,3,4,5,"Range(6),Piercing(1),Saturate"
+Blight_gren_dg,4,3,2,4,"Range(6),Blast(2),Saturate,Severe,Poison,Toxic"
+Flail_of_Corruption,5,3,4,5,"Brutal,Severe,Shock,Poison,Melee"
+Plague_Spewer,5,2,3,3,"Range(7),Saturate,Severe,Torrent(2),Poison"
+Boltpistol_dg,4,3,3,4,Range(8)
+Plague_knife_ib_dg,5,3,3,4,"Severe,Poison,Melee"
+Entropy,4,3,3,7,"Psychic,Range(7),Saturate,Severe,Poison"
+Plague_Wind,6,3,2,3,"Psychic,Saturate,Severe,Torrent(1),Poison,Range()"
+Corrupted_Staff,4,3,3,4,"Psychic,Severe,Shock,Stun,Poison,Melee"
+Boltgun_war_dg,4,3,3,4,"Range(),Toxic"
+Plague_knife_war_dg,4,3,3,4,"Severe,Poison,Melee"

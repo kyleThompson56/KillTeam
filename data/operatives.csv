@@ -1,0 +1,8 @@
+﻿name,team,ap,wounds,move,save,is_icon_bearer,abilities,passives,weapons,base_size
+Champion,Plague_Marines,3,15,127,3,FALSE,,"Grandfathers_Blessing,Disgustingly_Resilient","Plasma_Pistol_dg,Plasma_Pistol_supercharge_dg,Plague_Sword",32
+Bombardier,Plague_Marines,3,14,127,3,FALSE,,Disgustingly_Resilient,"Boltgun_gren_dg,Fists,Krak_gren_dg,Blight_gren_dg",32
+Fighter,Plague_Marines,3,14,127,3,FALSE,Flail,Disgustingly_Resilient,Flail_of_Corruption,32
+Heavy_Gunner,Plague_Marines,3,14,127,3,FALSE,,Disgustingly_Resilient,"Plague_Spewer,Fists",32
+Icon_Bearer,Plague_Marines,3,14,127,3,TRUE,,"Icon_of_Contagion,Disgustingly_Resilient","Boltpistol_dg,Plague_knife_ib_dg",32
+Plaguecaster,Plague_Marines,3,14,127,3,FALSE,"Poisonous_Miasma,Putrescent_Vitality",Disgustingly_Resilient,"Entropy,Plague_Wind,Corrupted_Staff",32
+Warrior,Plague_Marines,3,14,127,3,FALSE,,"Repulsive_Fortitude,Disgustingly_Resilient","Boltgun_war_dg,Plague_knife_war_dg",32
